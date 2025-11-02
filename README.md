@@ -133,6 +133,8 @@
 ```
 ### <article> — семантический тег для самостоятельного контента, который можно использовать независимо. Каждая карточка человека или города — это отдельная статья.
 
+![image](https://github.com/Byzgaev-I/Tags_content_structure/blob/main/2-111.png)
+
 
 ## Задание 2: Вёрстка статьи «Последние новости»
 
@@ -163,6 +165,9 @@
   box-sizing: border-box;
 }
 ```
+
+![image](https://github.com/Byzgaev-I/Tags_content_structure/blob/main/2-222.png)
+
 
 ## Задание 3: Вёрстка статьи «Раздел услуг веб-студии»
 
@@ -209,7 +214,7 @@
 }
 ```
 
-
+![image](https://github.com/Byzgaev-I/Tags_content_structure/blob/main/2%20-%203333.png)
 
 
 
